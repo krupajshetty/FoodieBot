@@ -48,17 +48,6 @@ python main.py
 ```
 
 
-## 🗃️ File Structure
-
-```
-FoodieBot/
-├── chatbot.py
-├── README.md
-└── (Any additional files you add)
-```
-
----
-
 ## ✅ Possible Enhancements (Optional for Future Work)
 
 * Integrate **speech-to-text** for voice ordering
